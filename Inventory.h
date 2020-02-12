@@ -18,4 +18,9 @@ class Inventory
     friend ostream& operator<<(ostream&, const Inventory&);
 };
 
+// The inventory class is used for identifying items in inventory
+// It will contain the item name, price, and amount in stock
+
+
+
 #endif
